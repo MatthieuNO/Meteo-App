@@ -1,0 +1,16 @@
+.input {
+  background: transparent;
+  border: none;
+  &:active {
+      background: transparent;
+      border: none; 
+  }
+}
+.searchBTN {
+  background: none;
+  border: none; 
+  border-radius: 50%;
+  cursor: pointer;
+ 
+}
+
